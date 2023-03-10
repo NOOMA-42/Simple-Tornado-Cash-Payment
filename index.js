@@ -1,1 +1,1 @@
-exports.wasm = require("./test/wasm/tester");
+exports.wasm = require('circom_tester').wasm
